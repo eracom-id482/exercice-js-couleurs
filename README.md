@@ -13,7 +13,7 @@ Créez une page web simple avec deux modes visuels:
 
 L'utilisateur doit pouvoir cliquer sur un élément pour changer le mode, entre couleur et noir blanc.
 
-Le mode couleur devra modifier au minimum:
+Le changement de mode couleur devra modifier au minimum:
 
 - la couleur de fond
 - la couleur de texte
