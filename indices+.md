@@ -15,7 +15,7 @@ document.querySelector(".color").addEventListener(
 
 ---
 
-### Pour changer un style, la propriété:
+### Pour changer un style
 
 La propriété `style`
 
